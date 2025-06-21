@@ -1,0 +1,4 @@
+Running: xsim.dir/four_bit_johnson_counter_behav/xsimk.exe -simmode gui -wdb four_bit_johnson_counter_behav.wdb -simrunnum 0 -socket 49969
+Design successfully loaded
+Design Loading Memory Usage: 28584 KB (Peak: 28584 KB)
+Design Loading CPU Usage: 608 ms
